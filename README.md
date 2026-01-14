@@ -1,5 +1,5 @@
-# 💫 About Me:
-Working on Web-security<br>CTF ethusiast<br>Indian Institute of Information Technology Bhopal<br>Your system is as strong as weakest link in it!
+#                               I'm Rhit Shukla
+## Working on Web-security<br>CTF ethusiast<br>Indian Institute of Information Technology Bhopal<br>Your system is as strong as weakest link in it!
 
 
 ## 🌐 Socials:
