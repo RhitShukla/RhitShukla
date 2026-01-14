@@ -1,5 +1,23 @@
 <div align="center">
 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rhit+Shukla!;Web+Security+Researcher;CTF+Enthusiast;Breaking+Systems+to+Secure+Them;Your+System+Is+Only+As+Strong+As+Its+Weakest+Link" alt="Typing SVG" />
+
+<br><br>
+
+<!-- GitHub Stats Animation -->
+<img src="https://github-readme-stats.vercel.app/api?username=RhitShukla&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
+<img src="https://streak-stats.demolab.com?user=RhitShukla&theme=transparent&hide_border=true" height="165" />
+
+<br>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhitShukla&layout=compact&theme=transparent&hide_border=true" height="140"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rhit+Shukla!;Web+Security+Researcher;CTF+Enthusiast;Breaking+Systems+to+Secure+Them" alt="Typing SVG" />
 
 </div>
